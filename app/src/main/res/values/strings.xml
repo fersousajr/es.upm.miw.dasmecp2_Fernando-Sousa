@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">API Albums Favoritos </string>
+    <string name="action_acercade">Acerca de</string>
+    <string name="txtSinImplementar">¡No implementado aún!</string>
+    <string name="searchButtonText">Busqueda</string>
+    <string name="bar_title">Busqueda de Albums</string>
+    <string name="noInternet">Sin conexion a Internet</string>
+    <string name="etArtistHint">Nombre del Artista</string>
+    <string name="title_activity_album_detail">Detalles del Album</string>
+    <string name="favoriteButtonText">Adicionar a los Favoritos</string>
+    <string name="albumDetailsTitle">Descripción del Album</string>
+    <string name="addedToFavorites">Album adicionado a los favoritos</string>
+    <string name="title_activity_favorite_albums">Favorite Albums</string>
+    <string name="action_favorites">Favorite Albums</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_delete">Borrar</string>
+    <string name="favoriteDeleted">Album removido de los favoritos</string>
+    <string name="favoriteShared">Album posted to Twitter account !!! </string>
+    <string name="msgDiálogo">¿Desea Salir?</string>
+    <string name="diálogoSí">Sí</string>
+    <string name="títuloDiálogo">Confirmación</string>
+    <string name="diálogoNo">No</string>
+    <string name="txtSalir">Salir</string>
+</resources>
